@@ -5,3 +5,6 @@
 
 ### 2. Ada started the machine with the GPU  "A Probabilistic Generative Grammar for Semantic Parsing" CoNLL 2017
 > Ada启动了带有GPU的这台机器；Ada用GPU启动了这台机器。
+
+### 3. 结合成分子时 "http://stp.lingfil.uu.se/~shaooyan/textanalys17/TokeninsationSegmentation.pdf" p16
+> 结合(combine)成(finish)分子(molecular)时(when). Meaning: When combined into moleculars. 结合(combine)合成(compose)成分(component)分子(molecular)子时(midnight). 2^5=32 possible ways.
