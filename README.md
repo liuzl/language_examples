@@ -8,3 +8,6 @@
 
 ### 3. 结合成分子时 "http://stp.lingfil.uu.se/~shaooyan/textanalys17/TokeninsationSegmentation.pdf" p16
 > 结合(combine)成(finish)分子(molecular)时(when). Meaning: When combined into moleculars. 结合(combine)合成(compose)成分(component)分子(molecular)子时(midnight). 2^5=32 possible ways.
+
+### 4. 代词的歧义
+> 这本书放不到那个盒子里面，因为它太大了。vs. 这本书放不到那个盒子里面，因为它太小了。
